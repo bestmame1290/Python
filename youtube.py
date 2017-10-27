@@ -6,7 +6,7 @@ mail: abhinavanand1905@gmail.com
 Requirements: requests, BeautifulSoup
 
 '''
-import os
+import ossss
 import webbrowser
 
 import requests
